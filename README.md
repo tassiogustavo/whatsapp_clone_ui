@@ -1,16 +1,18 @@
-# whatsapp_clone
+# WhatsApp Clone - Dart + Flutter
+## 📷 Video do Projeto
 
-A new Flutter project.
+https://user-images.githubusercontent.com/70405308/213257572-dfec8845-455a-4e2f-a8d7-08a99763efb7.mp4
 
-## Getting Started
+## 📝 Descrição do projeto
+Esse clone do WhatsApp foi feito em Dart + Flutter. Foi utilizado a biblioteca image_picker para tirar fotos. Para finalizar, todos os dados foram mockados dentro de classe interna.
 
-This project is a starting point for a Flutter application.
+## 🚀 Tecnologias e ferramentas utilizadas
+* Dart
+* Flutter
+* Image Picker
 
-A few resources to get you started if this is your first Flutter project:
+## 📌 Links
+* [image_picker](https://pub.dev/packages/image_picker)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📊 Status do projeto
+✅ Concluído
